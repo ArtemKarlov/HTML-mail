@@ -1,10 +1,10 @@
-## HTML Email development
+## Introduction to HTML Email Development
 
 > HTML email: Two words that, when combined, brings tears to a developer’s eyes. If you’re a web developer, it’s inevitable that coding an email will be a task that gets dropped in your lap at some time in your career, whether you like it or not. Coding HTML email is old school. Think back to 1999, when we called ourselves “webmasters” and used Frontpage, WYSIWYG editors and tables to mark up our websites.
 >
 > *&copy;**Lee Munroe** in [An Introduction To Building And Sending HTML Email For Web Developers](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)*
 
-### Main  principles
+### Main principles
 
 - table layout,
 - inline styles,
